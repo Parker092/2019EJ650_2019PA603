@@ -5884,34 +5884,19 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Parker\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\Marco\\.nuget\\packages\\": {}
->>>>>>> 49aac5fdc15f0bfd3245b66ac6581e6a9873b70f
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Parker\\Documents\\UNIVERSIDAD\\MATERIAS\\Paginas Web\\2019EJ650_2019PA603\\2019EJ650_2019PA603-main\\2019EJ650_2019PA603.csproj",
+      "projectUniqueName": "C:\\Users\\Parker\\Documents\\UNIVERSIDAD\\MATERIAS\\Paginas Web\\2019EJ650_2019PA603\\2019EJ650_2019PA603\\2019EJ650_2019PA603.csproj",
       "projectName": "2019EJ650_2019PA603",
-      "projectPath": "C:\\Users\\Parker\\Documents\\UNIVERSIDAD\\MATERIAS\\Paginas Web\\2019EJ650_2019PA603\\2019EJ650_2019PA603-main\\2019EJ650_2019PA603.csproj",
+      "projectPath": "C:\\Users\\Parker\\Documents\\UNIVERSIDAD\\MATERIAS\\Paginas Web\\2019EJ650_2019PA603\\2019EJ650_2019PA603\\2019EJ650_2019PA603.csproj",
       "packagesPath": "C:\\Users\\Parker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Parker\\Documents\\UNIVERSIDAD\\MATERIAS\\Paginas Web\\2019EJ650_2019PA603\\2019EJ650_2019PA603-main\\obj\\",
+      "outputPath": "C:\\Users\\Parker\\Documents\\UNIVERSIDAD\\MATERIAS\\Paginas Web\\2019EJ650_2019PA603\\2019EJ650_2019PA603\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Parker\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-      "projectUniqueName": "C:\\UNICAESWEB\\DPWPractica\\2019EJ650_2019PA603\\2019EJ650_2019PA603\\2019EJ650_2019PA603.csproj",
-      "projectName": "2019EJ650_2019PA603",
-      "projectPath": "C:\\UNICAESWEB\\DPWPractica\\2019EJ650_2019PA603\\2019EJ650_2019PA603\\2019EJ650_2019PA603.csproj",
-      "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-      "outputPath": "C:\\UNICAESWEB\\DPWPractica\\2019EJ650_2019PA603\\2019EJ650_2019PA603\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 49aac5fdc15f0bfd3245b66ac6581e6a9873b70f
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5968,12 +5953,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
->>>>>>> 49aac5fdc15f0bfd3245b66ac6581e6a9873b70f
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Parker\\Documents\\UNIVERSIDAD\\MATERIAS\\Paginas Web\\2019EJ650_2019PA603\\2019EJ650_2019PA603\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -75,7 +75,7 @@ namespace _2019EJ650_2019PA603.Controllers
 
         [HttpPost]
         [Route("api/pedidos")]
-        public IActionResult guardarEquipo([FromBody] Pedidos pedidoNuevo)
+        public IActionResult guardarPedido([FromBody] Pedidos pedidoNuevo)
         {
             try
             {
